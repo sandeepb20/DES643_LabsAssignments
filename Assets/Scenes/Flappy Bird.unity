@@ -264,7 +264,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Your Score: 10'
+  m_text: 'Your Score: 0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1730,7 +1730,7 @@ MonoBehaviour:
   goldMedal: {fileID: 1707213180}
   silverMedal: {fileID: 694745835}
   bronzeMedal: {fileID: 1703329645}
-  pauseGameSound: {fileID: 8300000, guid: e8208b0d3b8dac34da997f36ae908e90, type: 3}
+  pauseGameSound: {fileID: 8300000, guid: 6c4a34ca711104d41a8b7e51b73d6478, type: 3}
 --- !u!4 &1466409228
 Transform:
   m_ObjectHideFlags: 0

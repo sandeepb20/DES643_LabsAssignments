@@ -71,6 +71,8 @@ public class GameManager : MonoBehaviour
         bronzeMedal.SetActive(false);
         Time.timeScale = 1f;
         flappingo.enabled = true;
+        DevelopedByText.enabled = false;
+
 
         Pipe[] pipe = FindObjectsOfType<Pipe>();
         ShowMedal(0);
